@@ -14,7 +14,7 @@ function imgAlert(evt){
 }
 let form = document.querySelector('#contact');
 
-form.addEventListener('submit', handleSubmit);
+form.addEventListener("submit", handleSubmit);
 
 let img = document.querySelector('img')
 
