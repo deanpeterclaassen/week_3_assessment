@@ -53,5 +53,19 @@ button{
 }
 .buttons{
 	display: flex;
-	
+
+}
+
+label{
+	display: flex;
+}
+.checkboxes{
+	margin-top: 50px;
+}
+.pic{
+	display: flex;
+	justify-content: center;
+}
+.profilePic{
+	margin: 20px;
 }
