@@ -48,4 +48,10 @@ img {
 
 button{
 	margin-top: 50px;
+	background-color: yellow;
+	padding: 14px 30px;
+}
+.buttons{
+	display: flex;
+	
 }
